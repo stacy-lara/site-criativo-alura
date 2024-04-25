@@ -28,6 +28,6 @@
     <h1>CABELOS RAPUNZEL</hi>
     <h2>Para ter um cabelo lindo e hidratado segue a dica:</h2>
        <P>Faça pré-poo antes de todas as lavagens, use oleó reparador de pontas 3x ou mais por dia, tenha um cronograma capilar, use um bom protetor térmico e use o secador ou outras fontes de calor somente quando necessário</p>
-    <img src="https://i.pinimg.com/736x/da/61/9d/da619d4024249fc96b35cdf85de04896.jpg"width="900" alt="imagens pelo link"
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgr3S_dNwBDfRJSKNNKvHqVXtdB_XwJCS9S5uzk9IrrA&s"width="900" alt="imagens pelo link"
 </body>
 </html>
