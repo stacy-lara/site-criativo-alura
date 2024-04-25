@@ -11,7 +11,7 @@
     <h1>Cabelos rapunzel</hi>
     <h2>Aqui eu te mostro como recuperar seu cabelo da etaca zero.</h2>
         <p>O cabelo para mulher msimboliza a auto-estima, agora imagina uma mulher ter um cabelo assim.</p>
-    <img src="https://media.istockphoto.com/id/499570680/pt/foto/feminina-termina-de-problemas-de-cuidados-com-o-cabelo.jpg?s=612x612&w=0&k=20&c=o506TUh3nR6lJA1PjMmxNpfod_2O12A5n-Likngt3Ys"width="900" alt="imagens pelo link"
+    <img src="https://media.istockphoto.com/id/1137040008/pt/foto/woman-damaged-hair-split-ends-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=1IRXsQ0n7Y1o25wYclyPejV02zperynytY2DyMdrRYI="width="900" alt="imagens pelo link"
 </body>
 </html>
 
