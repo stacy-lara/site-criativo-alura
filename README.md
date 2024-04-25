@@ -27,6 +27,6 @@
     <h1>SOM AUTOMOTIVO RESIDENCIAL</hi>
     <h2>Os melhores aparelhos de som automotivos resiencial da cidade</h2>
        <P>Aqui o cliente chega querendo algo grande mas não para colocar no carro. Temos a solução, CAIXA BOB </p>
-    <img src="https://i.pinimg.com/736x/da/61/9d/da619d4024249fc96b35cdf85de04896.jpg"width="900" alt="imagens pelo link"
+    <img src= https://boadicadebeleza.com.br/wp-content/uploads/2023/09/banho-de-brilho-no-cabelo.jpg alt="imagens pelo link"
 </body>
 </html>
