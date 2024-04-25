@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -21,12 +22,12 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Matheus Augusto</title>
+    <title>Stacy Lara</title>
 </head>
 <body>
-    <h1>SOM AUTOMOTIVO RESIDENCIAL</hi>
-    <h2>Os melhores aparelhos de som automotivos resiencial da cidade</h2>
-       <P>Aqui o cliente chega querendo algo grande mas não para colocar no carro. Temos a solução, CAIXA BOB </p>
-    <img src= https://boadicadebeleza.com.br/wp-content/uploads/2023/09/banho-de-brilho-no-cabelo.jpg alt="imagens pelo link"
+    <h1>CABELOS RAPUNZEL</hi>
+    <h2>Para ter um cabelo lindo e hidratado segue a dica:</h2>
+       <P>Faça pré-poo antes de todas as lavagens, use oleó reparador de pontas 3x ou mais por dia, tenha um cronograma capilar, use um bom protetor térmico e use o secador ou outras fontes de calor somente quando necessário</p>
+    <img src="https://i.pinimg.com/736x/da/61/9d/da619d4024249fc96b35cdf85de04896.jpg"width="900" alt="imagens pelo link"
 </body>
 </html>
